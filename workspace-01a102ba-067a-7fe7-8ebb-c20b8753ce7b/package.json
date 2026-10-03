@@ -1,0 +1,9 @@
+{
+  "name": "jnep-learner",
+  "private": true,
+  "version": "1.0.0",
+  "description": "JNEP Learner front end with a server-side online translation proxy",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
